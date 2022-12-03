@@ -7,6 +7,6 @@ setup(
     name="snowflake",
     version="1.0",
     author="Munna Prithvinath Singh"
-    packages=find_packages(),
+    packages=find_packages()
     install_requires = required
 )
